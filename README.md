@@ -1,5 +1,11 @@
 # Pretri Seveny — Portfolio
 
+Website: https://sevenyysf.github.io/portfolio/
+
+Repository: https://github.com/sevenyysf/portfolio
+
+To update the site, edit the files in `site/` and push to `main`. The GitHub Actions workflow checks and publishes the changes.
+
 A complete static portfolio for GitHub Pages. The site lives in `site/` and does not need a framework, database, or runtime dependency. All project images and the CV are included locally. Paths are relative, so repository hosting and a personal `username.github.io` site both work.
 
 ## Publish from Pretri’s GitHub
@@ -42,7 +48,7 @@ Project notes use native disclosure elements. Images link directly to original f
 
 The portfolio is based on Pretri’s updated CV shared on 10 November 2026 and the two images she supplied for the portfolio: FOKASI insights and the SATRIA DATA carbon-market poster. Team outcomes are labeled as team outcomes. The 96.7% accuracy is explicitly attributed to the CV; no evaluation methodology is invented.
 
-The CV repeats the Big Data Challenge label for the infographic entry. The portfolio describes the second entry as a SATRIA DATA infographic without asserting an unverified competition category. Confirm the category when adding a full case study. Pretri confirmed her GitHub username as `sevenyysf`; the profile was checked and is linked. It currently has no public repositories. Add verified project links when published. Six activity photos shared later on 10 November are included in the campus-and-community gallery. Captions describe visible context without identifying people in group photos.
+The CV repeats the Big Data Challenge label for the infographic entry. The portfolio describes the second entry as a SATRIA DATA infographic without asserting an unverified competition category. Confirm the category when adding a full case study. Pretri confirmed her GitHub username as `sevenyysf`; the profile was checked and is linked. Her portfolio repository is `sevenyysf/portfolio`. Add verified project links when published. Six activity photos shared later on 10 November are included in the campus-and-community gallery. Captions describe visible context without identifying people in group photos.
 
 This package includes her original CV with its contact details. Review the CV and portfolio before publishing them publicly. Unrelated WhatsApp attachments remain outside this project.
 
@@ -50,6 +56,6 @@ This package includes her original CV with its contact details. Review the CV an
 
 `npm run check` passed. `aislop` 0.20.0 scored 100/100 across all three JavaScript files, with no findings. Desktop browser checks passed for local assets at both `/` and `/portfolio/`, filtering, project disclosures, and image-viewer opening/closing with focus restored. The page has no horizontal overflow at the tested 1433px viewport. Follow-up checks passed at a 390px mobile viewport with no horizontal overflow. Escape closes the viewer and restores focus. All six gallery photos return HTTP 200 and decode successfully. Full results: `verification.json`.
 
-The site has not been published to GitHub. This is the ready-to-upload package.
+GitHub Pages is configured for this repository. See the Actions tab for the status of the latest deployment.
 
-For the `portfolio` repository under `sevenyysf`, the expected address after deployment is `https://sevenyysf.github.io/portfolio/`. For the repository `sevenyysf.github.io`, it is `https://sevenyysf.github.io/`. These are deployment targets, not currently live sites.
+For the `portfolio` repository under `sevenyysf`, the expected address after deployment is `https://sevenyysf.github.io/portfolio/`. For the repository `sevenyysf.github.io`, it is `https://sevenyysf.github.io/`. This repository uses the first address; the root-site address would require a different repository.

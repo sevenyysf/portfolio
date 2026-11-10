@@ -102,5 +102,6 @@
     "escape_key": "passed; viewer closes and focus returns to photo link",
     "photo_assets": "6 of 6 HTTP 200; all decoded successfully"
   },
-  "publishing": "Prepared for GitHub Pages; not deployed"
+  "publishing": "GitHub Pages configured for sevenyysf/portfolio; deployment status is recorded in GitHub Actions",
+  "deployment_url": "https://sevenyysf.github.io/portfolio/"
 }
