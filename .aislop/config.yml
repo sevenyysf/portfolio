@@ -1,0 +1,6 @@
+version: 1
+telemetry:
+  enabled: false
+ci:
+  failBelow: 90
+  format: json

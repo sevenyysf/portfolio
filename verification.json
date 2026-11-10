@@ -1,0 +1,106 @@
+{
+  "verified_at": "2026-11-10",
+  "aislop": {
+    "schemaVersion": "1",
+    "cliVersion": "0.20.0",
+    "version": "0.20.0",
+    "score": 100,
+    "label": "Healthy",
+    "scoreable": true,
+    "coverage": {
+      "supportedFiles": 3,
+      "unsupportedFiles": 0,
+      "dominantUnsupported": null,
+      "scoreable": true
+    },
+    "engines": {
+      "format": {
+        "issues": 0,
+        "skipped": false,
+        "elapsed": 91.40329099999997
+      },
+      "lint": {
+        "issues": 0,
+        "skipped": false,
+        "elapsed": 171.5049170000001
+      },
+      "code-quality": {
+        "issues": 0,
+        "skipped": false,
+        "elapsed": 590.6005839999999
+      },
+      "ai-slop": {
+        "issues": 0,
+        "skipped": false,
+        "elapsed": 50.048167000000035
+      },
+      "security": {
+        "issues": 0,
+        "skipped": false,
+        "elapsed": 1236.5726249999998
+      }
+    },
+    "engineDefinitions": {
+      "format": {
+        "label": "Formatting",
+        "description": "Whitespace, indentation, line wrapping, and import ordering"
+      },
+      "lint": {
+        "label": "Linting",
+        "description": "Static analysis for likely bugs and bad patterns"
+      },
+      "code-quality": {
+        "label": "Code Quality",
+        "description": "Complexity limits, dead code detection, and duplication checks"
+      },
+      "ai-slop": {
+        "label": "AI Slop",
+        "description": "Narrative comments, dead patterns, unsafe type casts, TODO stubs, generic names"
+      },
+      "architecture": {
+        "label": "Architecture",
+        "description": "Project-specific import and layering rules"
+      },
+      "security": {
+        "label": "Security",
+        "description": "Secret leaks, risky APIs, and dependency vulnerabilities"
+      }
+    },
+    "diagnostics": [],
+    "findingAssessment": {
+      "rows": [],
+      "byKind": {
+        "confirmed-defect": 0,
+        "conservative-security": 0,
+        "style-policy": 0,
+        "ai-slop-indicator": 0
+      },
+      "byConfidence": {
+        "high": 0,
+        "medium": 0,
+        "low": 0
+      }
+    },
+    "summary": {
+      "errors": 0,
+      "warnings": 0,
+      "fixable": 0,
+      "files": 3,
+      "elapsed": "1.3s"
+    }
+  },
+  "browser": {
+    "desktop_width": 1433,
+    "horizontal_overflow": false,
+    "broken_images": 0,
+    "root_path_assets": "all HTTP 200",
+    "repository_path_assets": "all HTTP 200",
+    "filters": "passed",
+    "project_disclosure": "passed",
+    "image_viewer_open_close_focus_restore": "passed",
+    "mobile_viewport": "390px: passed, no horizontal overflow",
+    "escape_key": "passed; viewer closes and focus returns to photo link",
+    "photo_assets": "6 of 6 HTTP 200; all decoded successfully"
+  },
+  "publishing": "Prepared for GitHub Pages; not deployed"
+}

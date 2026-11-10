@@ -1,0 +1,19 @@
+PORTOFOLIO PRETRI — CARA PASANG DI GITHUB PAGES
+
+1. Ekstrak ZIP ini.
+2. Buat repository di akun GitHub Pretri, yaitu portfolio (URL setelah publish: https://sevenyysf.github.io/portfolio/) atau sevenyysf.github.io (URL setelah publish: https://sevenyysf.github.io/).
+3. Upload semua isi folder pretri-portfolio ke root repository. Pastikan folder tersembunyi .github dan .aislop ikut terunggah. Jangan upload ZIP sebagai satu file.
+4. Pastikan branch bernama main.
+5. Buka Settings > Pages. Pada Source, pilih GitHub Actions.
+6. Buka tab Actions, pilih Publish portfolio to GitHub Pages, lalu Run workflow (atau push perubahan baru).
+7. Setelah selesai, buka URL yang muncul pada deployment atau Settings > Pages.
+
+File website ada di folder site. Foto, poster, dan CV ada di site/assets dan sudah memakai alamat relatif; nama repository bisa diganti tanpa mengubah link aset.
+
+Edit teks di site/index.html. Ganti CV atau gambar dengan nama file yang sama agar link tetap berfungsi. Petunjuk lengkap ada di README.md.
+
+Username GitHub sudah dikonfirmasi: sevenyysf. Link profil sudah ditambahkan. Belum ada repository publik untuk ditautkan sebagai project. Link email dan LinkedIn mengikuti CV. Enam foto kegiatan sudah disertakan.
+
+Untuk preview lokal: install Node.js 22, buka terminal di folder ini, jalankan npm ci lalu npm run preview. Buka alamat yang tampil.
+
+Arsip WhatsApp pribadi tidak disertakan dalam paket ini.

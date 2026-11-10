@@ -1,0 +1,11 @@
+{
+  "entry": [
+    "site/app.js",
+    "scripts/check.mjs",
+    "scripts/serve.mjs"
+  ],
+  "project": [
+    "site/**/*.js",
+    "scripts/**/*.mjs"
+  ]
+}
