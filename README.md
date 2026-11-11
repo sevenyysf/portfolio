@@ -46,7 +46,7 @@ Project notes use native disclosure elements. Images link directly to original f
 
 ## Content sources and review
 
-The portfolio is based on Pretri’s updated CV shared on 10 November 2026 and the two images she supplied for the portfolio: FOKASI insights and the SATRIA DATA carbon-market poster. Team outcomes are labeled as team outcomes. The 96.7% accuracy is explicitly attributed to the CV; no evaluation methodology is invented.
+The portfolio is based on Pretri’s updated CV shared on 10 November 2026 and the two images she supplied for the portfolio: FOKASI insights and the SATRIA DATA carbon-market poster. Team outcomes are labeled as team outcomes. The Big Data Challenge result is a 96.7% macro F1 score on the competition platform's hidden test set, as documented in `sevenyysf/waste-classification-bdc-satdat2026` (the CV calls it accuracy). The portfolio does not claim a placement.
 
 The updated CV (11 November 2026) lists the infographic entry as the SATRIA DATA 2026 Statistics Infographic Challenge, and the portfolio uses that category. The diabetes ordinal-logit project is a two-person course project with Mutiara Meisya Fadila; its notes, code link (`sevenyysf/determinan-diabet-ordinal-logit`), and RPubs report link come from the project repository and paper, including the paper's own stated limitations. Pretri confirmed her GitHub username as `sevenyysf`; the profile was checked and is linked. Her portfolio repository is `sevenyysf/portfolio`. Add verified project links when published. Six activity photos shared later on 10 November are included in the campus-and-community gallery. Captions describe visible context without identifying people in group photos.
 
