@@ -36,7 +36,7 @@ Open the local address printed by the preview server. `npm run check` validates 
 ## Edit the portfolio
 
 - **Text and experience:** `site/index.html`. Content stays readable even with JavaScript disabled.
-- **Projects:** edit the three `<article class="project">` elements. Use `data-category="analysis"`, `"communication"`, or both for filters. Update the All work count if adding projects.
+- **Projects:** edit the four `<article class="project">` elements. Use `data-category="analysis"`, `"communication"`, or both for filters. Update the All work count if adding projects.
 - **Images and CV:** replace files in `site/assets/`, preserving names, or update the corresponding relative links.
 - **Colors, spacing and layout:** `site/styles.css`.
 - **Filters and image viewer:** `site/app.js`.
@@ -48,7 +48,7 @@ Project notes use native disclosure elements. Images link directly to original f
 
 The portfolio is based on Pretri’s updated CV shared on 10 November 2026 and the two images she supplied for the portfolio: FOKASI insights and the SATRIA DATA carbon-market poster. Team outcomes are labeled as team outcomes. The 96.7% accuracy is explicitly attributed to the CV; no evaluation methodology is invented.
 
-The CV repeats the Big Data Challenge label for the infographic entry. The portfolio describes the second entry as a SATRIA DATA infographic without asserting an unverified competition category. Confirm the category when adding a full case study. Pretri confirmed her GitHub username as `sevenyysf`; the profile was checked and is linked. Her portfolio repository is `sevenyysf/portfolio`. Add verified project links when published. Six activity photos shared later on 10 November are included in the campus-and-community gallery. Captions describe visible context without identifying people in group photos.
+The updated CV (11 November 2026) lists the infographic entry as the SATRIA DATA 2026 Statistics Infographic Challenge, and the portfolio uses that category. The diabetes ordinal-logit project is a two-person course project with Mutiara Meisya Fadila; its notes, code link (`sevenyysf/determinan-diabet-ordinal-logit`), and RPubs report link come from the project repository and paper, including the paper's own stated limitations. Pretri confirmed her GitHub username as `sevenyysf`; the profile was checked and is linked. Her portfolio repository is `sevenyysf/portfolio`. Add verified project links when published. Six activity photos shared later on 10 November are included in the campus-and-community gallery. Captions describe visible context without identifying people in group photos.
 
 This package includes her original CV with its contact details. Review the CV and portfolio before publishing them publicly. Unrelated WhatsApp attachments remain outside this project.
 

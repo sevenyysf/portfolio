@@ -68,6 +68,9 @@ details[open] summary span { transform: rotate(45deg); }
 .model-foot { display: flex; justify-content: space-between; border-top: 1px solid #ffffff40; padding-top: 17px; }
 .insights-image { height: 330px; background: #dce0d6; padding: 26px 86px 0; }
 .insights-image img { height: auto; margin-top: -90px; }
+.project-closing { padding: 48px 0 0; border-bottom: 0; border-top: 1px solid var(--line); }
+.report-cover { background: var(--olive); }
+.detail-links { display: flex; flex-wrap: wrap; gap: 12px 28px; }
 .experience-section { background: #e7e9df; padding-block: 90px; }
 .experience-layout { display: grid; grid-template-columns: .9fr 1.1fr; gap: 100px; }
 .experience-intro h2 { margin-block: 23px; }
